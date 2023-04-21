@@ -1,3 +1,11 @@
+Team details:
+Aakarsh Jain    PES2UG20CS004
+Aditi Jain      PES2UG20CS021
+Amisha Mathew   PES2UG20CS038
+Amrita Patra    PES2UG20CS040
+
+Commands to run the code in local terminal:
+
 sudo apt-get update
 # For Sql-client
 sudo apt-get install mysql-client
